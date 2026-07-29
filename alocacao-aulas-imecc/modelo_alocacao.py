@@ -177,15 +177,3 @@ for p in professores:
         for h in horarios:
             if x[(p, m, h)].value() == 1:
                 print(f"O professor {p} foi atribuído à matéria {m} no horário {h}")
-
-
-"""
-==========================================
-RESULTADO ESPERADO 
-==========================================
-O professor Jayme Morandi Vaz foi atribuído à matéria MS550 no horário 14h
-O professor Laecio Carvalho de Barros foi atribuído à matéria MS380 no horário 19h
-O professor Lucio Tunes Dos Santos foi atribuído à matéria MS512 no horário 14h
-...
-(Erros de alocação de salas mapeados no relatório técnico)
-"""
