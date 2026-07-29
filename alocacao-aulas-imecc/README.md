@@ -32,4 +32,4 @@ Esse tipo de modelagem é diretamente escalável para:
 * Roteirização logística.
 
 A documentação detalhada deste projeto, incluindo a justificativa matemática das variáveis, as matrizes de preferência originais e a análise crítica das falhas de alocação de salas, pode ser consultada no relatório oficial:
-👉 **[Ler o Relatório Técnico (PDF)](./alocacao-aulas-imecc.pdf)**
+ **[Ler o Relatório Técnico (PDF)](./alocacao-aulas-imecc.pdf)**
