@@ -23,7 +23,7 @@ Maximizar a satisfação global da alocação, baseada numa matriz de preferênc
 4. **Disponibilidade de Salas:** O número de matérias alocadas em um horário `h` não pode exceder o número de salas físicas disponíveis.
 5. **Blocos de Dias:** Restrição para alinhar as aulas aos blocos de dias da universidade (Ex: Seg/Qua/Sex ou Ter/Qui).
 
-## 🚀 Resultados e Conclusão
+## Resultados e Conclusão
 O modelo base conseguiu distribuir com sucesso as turmas, demonstrando a eficácia do *Course Assignment Model*. Em simulações mais complexas adicionando a variável tridimensional de horários e salas físicas, identificou-se que a sensibilidade dos parâmetros de entrada (como o limite irreal de disponibilidade) pode inviabilizar a solução, provando que a otimização de *Timetabling* exige dados altamente governados.
 
 Esse tipo de modelagem é diretamente escalável para:
