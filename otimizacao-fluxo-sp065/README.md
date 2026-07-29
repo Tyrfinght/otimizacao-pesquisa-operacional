@@ -20,7 +20,7 @@ Foi criado um script simulando três cenários:
 2. **Cenário de Intervenção de Entrada:** Simulação do impacto da duplicação da via de acesso.
 3. **Cenário de Intervenção Completa:** Ajuste estendido das saídas para escoar o fluxo induzido.
 
-## Relatório Técnico
+## Relatório
 A documentação completa com as equações matemáticas, mapas da modelagem e gráficos comparativos pode ser lida no arquivo [Projeto-MS529-173216-205577.pdf](./Projeto-MS529-173216-205577.pdf) anexo a este repositório.
 
 ## Limitações e Trabalhos Futuros
